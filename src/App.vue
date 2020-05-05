@@ -10,6 +10,11 @@
 import TodoList from '@/components/TodoList'
 export default {
   name: 'App',
+  data() {
+    return {
+      
+    }
+  },
   components: {
     TodoList
   }
